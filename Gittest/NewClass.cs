@@ -5,6 +5,8 @@ using System.Text;
 namespace Gittest
 {
     class NewClass
-    {dsd
+    { 
+        public string Info { get; set }
+
     }
 }
